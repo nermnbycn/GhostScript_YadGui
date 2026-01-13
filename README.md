@@ -66,6 +66,9 @@ menu.sh çalıştırılır ve yad arayüz ekranı (seçim ekranı) kullanıcıya
 
 ![OrnekGoruntu4](https://github.com/user-attachments/assets/e1541453-15bb-419b-8b39-54ef3ad9cfd8)
 
+![OrnekGoruntu5](https://github.com/user-attachments/assets/29a23b4b-1383-472e-9cca-1fde0cbe3f8c)
+
+
 ## 🎥 Demo Video
 
 https://www.youtube.com/watch?v=vDVifVFZ8B0
